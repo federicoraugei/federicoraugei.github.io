@@ -1,6 +1,6 @@
 ---
-title: "Project II"
-excerpt: "Short description of portfolio item number 2."
+title: "Case study"
+excerpt: "Starwood Database Security Incident"
 collection: portfolio
 ---
 
