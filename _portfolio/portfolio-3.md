@@ -1,5 +1,7 @@
 ---
-title: Project III
+title: "Project III"
+excerpt: "Short description of portfolio item number 3."
+collection: portfolio
 ---
 
 ## Business network design
