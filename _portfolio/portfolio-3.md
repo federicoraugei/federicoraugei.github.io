@@ -1,10 +1,10 @@
 ---
-title: "Project III"
-excerpt: "Short description of portfolio item number 3."
+title: "High School network redesign"
+excerpt: "Network topology."
 collection: portfolio
 ---
 
-## Business network design
+## School network design
 
 - Used my knowledge of network layouts and networking devices to create a simple business network for a high school
 - Used security principles and networking requests to create a secure network
