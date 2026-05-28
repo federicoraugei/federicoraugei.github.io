@@ -1,1 +1,1 @@
-<br/><img scr='/images/Student Network.png'>
+<br/><img scr='/images/Student_Network.png'>
