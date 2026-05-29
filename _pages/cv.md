@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<br/> <img scr='/images/resume2.png'> 
-<br/> <img scr='/images/resume1.png'> 
+<br/> <img scr='images/resume2.png'> 
+<br/> <img scr='images/resume1.png'> 
