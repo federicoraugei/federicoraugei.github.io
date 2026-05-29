@@ -11,4 +11,4 @@ collection: portfolio
 - Imrpoved networking and security for a simulated school
 
 
-<br/><img scr='/images/Student_Network.png'>
+<br/><img scr='/images/StudentNetwork.png'>
