@@ -10,5 +10,4 @@ collection: portfolio
 - Used security principles and networking requests to create a secure network
 - Imrpoved networking and security for a simulated school
 
-
-<br/><img scr='./images/StudentNetwork.png'>
+![](/images/StudentNetwork.png)
